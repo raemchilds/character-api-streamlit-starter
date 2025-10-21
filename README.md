@@ -28,7 +28,11 @@ To build a lightweight joke engine that keeps **character voice consistent** whi
 ### 🔧 Tech Stack  
 - **Language:** Python 3.10  
 - **Libraries:** Streamlit, Dataclasses, Typing, Random  
-- **Environment:** macOS / Streamlit Cloud  
+- **Environment:** macOS / Streamlit Cloud
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://character-api-streamlit-starter.streamlit.app/)
+
+
 
 #### Run locally
 ```bash
@@ -37,5 +41,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
-### Live Demo ###
-https://character-api-streamlit-starter.streamlit.app/
