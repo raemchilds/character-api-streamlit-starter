@@ -37,5 +37,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
-**Live Demo**
-https://character-api-streamlit-starter.streamlit.app/
