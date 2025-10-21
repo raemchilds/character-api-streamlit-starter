@@ -30,42 +30,12 @@ To build a lightweight joke engine that keeps **character voice consistent** whi
 - **Libraries:** Streamlit, Dataclasses, Typing, Random  
 - **Environment:** macOS / Streamlit Cloud  
 
-**Run locally:**
+#### Run locally
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
-🧪 Sprint Outcome
-
-✅ Trait-aware irony logic for contextual joke generation
-✅ Generated 50+ unique jokes with consistent tone
-✅ Ready for deployment via Streamlit Cloud
-✅ Reusable codebase for Glowlock Labs humor systems
-
-📄 Example Output
-
-Input Traits:
-Oblivious privilege · Neurotic / indecisive · Polite / manipulative
-Agenda: maintain power · Catchphrases: “Oh dear!”, “Surely, you jest!”
-
-Generated:
-
-Ironic Situation: hosting a charity event for the poor
-Joke: Queen Margaret smiles nervously and says,
-“Oh dear!—I do hope they don’t notice the diamond-encrusted donation box!”
-
-🚀 Live Demo
-
-👉 View the Character API on Streamlit
-
-🧠 Next Steps
-
-Add “Archetype Packs” (Royal, Rebel, Fool, Bureaucrat)
-
-Integrate with LyricSmith for punchline rhythm testing
-
-Add visual generation via Glowlock Sensory Engine
-
-✨ Developed by Glowlock Labs — exploring narrative systems through AI and creative computation.
+### Live Demo ###
+https://character-api-streamlit-starter.streamlit.app/
