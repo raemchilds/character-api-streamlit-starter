@@ -31,7 +31,9 @@ To build a lightweight joke engine that keeps **character voice consistent** whi
 - **Environment:** macOS / Streamlit Cloud
 
 ###
-[![Open in Streamlit]([https://character-api-app-starter-pbpbw4akspk2qbnfxrxtus.streamlit.app/](https://character-api-app-starter-pbpbw4akspk2qbnfxrxtus.streamlit.app/))
+Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://character-api-app-starter-pbpbw4akspk2qbnfxrxtus.streamlit.app/)
+
 
 
 
